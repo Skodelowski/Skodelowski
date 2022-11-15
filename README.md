@@ -27,11 +27,3 @@
     <img src="https://skillicons.dev/icons?i=symfony,docker,kubernetes,jenkins,heroku,aws,py" />
   </a>
 </p>
-
-<br />
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
-
-</div>
